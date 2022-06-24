@@ -1,0 +1,17 @@
+{
+    "books": [{
+        "id": 1,
+        "name": "Final Fantasy XIV: The Official Cookbook",
+        "author": "Square Enix",
+        "rating": 4.64,
+        "tag": ["Hardback", "English"],
+        "desc": "Travel through the exciting culinary world of Final Fantasy XIV."
+    }, {
+        "id": 2,
+        "name": "Final Fantasy XIV: Shadowbringers Art Of Reflection -Histories Unwritten-",
+        "author": "Square Enix",
+        "rating": 4.92,
+        "tag": ["Paperback", "Final Fantasy XIV", "English"],
+        "desc": "The second volume of a two-volume set of the official art books for Final Fantasy XIV: Shadowbringers, featuring hundreds of pages of full-color art and an exclusive bonus item code!"
+    }]
+}
